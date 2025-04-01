@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jshyun912)](https://solved.ac/jshyun912/)
+[![BOJ](https://bojstat.vulcan.site/jshyun912)](https://www.acmicpc.net/user/jshyun912) 

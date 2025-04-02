@@ -16,12 +16,15 @@ Here are some ideas to get you started:
 -->
 
 ### 😄 개발자가 되고 싶어요!
+<hr>
 
-아직 뭔가 내세울 프로젝트는 없긴 하지만 열심히 배워서 곧 찾아옵니다!! 
+아직 뭔가 내세울 프로젝트는 없긴 하지만 열심히 배워서 곧 찾아옵니다!!
+<hr>
 
 ### 📘 이러한 언어를 써본적이 있어요
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jshyun912&layout=compact)  
 
+<hr>
 
 ### 📕 공부중인 언어(기술)
 <p>
@@ -33,9 +36,12 @@ Here are some ideas to get you started:
 
 이 언어들을 열심히 공부해서 무언가를 만들어 올게요!
 
+<hr>
+
 ### 🎸 기타 사항
 
 <a href="https://solved.ac/profile/jshyun912"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=jshyun912"></a><br>
+
 [![BOJ](https://bojstat.vulcan.site/jshyun912)](https://www.acmicpc.net/user/jshyun912) 
 
 프로필 사진은 havana724님이 그려주셨답니다.

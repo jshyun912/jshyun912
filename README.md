@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 
 [![BOJ](https://bojstat.vulcan.site/jshyun912)](https://www.acmicpc.net/user/jshyun912) 
 
-프로필 사진은 havana724님이 그려주셨답니다.
+프로필 사진은 havana723님이 그려주셨답니다.

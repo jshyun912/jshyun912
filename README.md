@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 
 <hr>
 
+### 😄 이런걸 해봤어요
+
+2025년 오픈소스 컨트리뷰션 아카데미 [체험형 1차] Git 활용 및 Chromium - 수료
+
 ### 🎸 기타 사항
 
 <a href="https://solved.ac/profile/jshyun912"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=jshyun912"></a><br>

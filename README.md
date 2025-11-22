@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 ### 😄 이런걸 해봤어요
 
-2025년 오픈소스 컨트리뷰션 아카데미 [체험형 1차] Git 활용 및 Chromium - 수료
+- 2025년 오픈소스 컨트리뷰션 아카데미 [체험형 1차] Git 활용 및 Chromium - 수료
+- 2025년 오픈소스 컨트리뷰션 아카데미 [체험형 2차] Git 활용 및 Braillify와 Devup UI 수료
 
 ### 🎸 기타 사항
 

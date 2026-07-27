@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <hr>
 
 ### 🎸 기타 사항
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jshyun912)](https://solved.ac/백준아이디)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jshyun912)](https://solved.ac/jshyun912)
 
-[![BOJ](https://bojstat.vulcan.site/jshyun912)](https://www.acmicpc.net/user/jshyun912) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jshyun912&layout=compact&theme=compact)
 
 프로필 사진은 havana723님이 그려주셨답니다.

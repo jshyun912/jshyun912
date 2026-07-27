@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 ### 🎸 기타 사항
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jshyun912)](https://solved.ac/jshyun912)
 
-[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=linzy_thantos)](https://codeforces.com/profile/linzy_thantos)
+[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=linzy_thanatos)](https://codeforces.com/profile/linzy_thanatos)
 
 프로필 사진은 havana723님이 그려주셨답니다.
